@@ -9,9 +9,9 @@ C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debu
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.dll
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\DAL\obj\Debug\DAL.pdb
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\bin\Debug\DAL.dll
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\bin\Debug\DAL.pdb
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\obj\Debug\DAL.dll
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\DAL\obj\Debug\DAL.pdb
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\bin\Debug\DAL.dll
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\bin\Debug\DAL.pdb
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\obj\Debug\DAL.dll
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\DAL\obj\Debug\DAL.pdb

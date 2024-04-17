@@ -13,10 +13,10 @@ namespace DAL
         public SqlConnection Conexion { get; set; }
         public SqlConnection AbreConexionSQL()
         {
-            string ser = "DESKTOP-3TAVB1D\\SQLEXPRESS";
+            string ser = "localhost";
             string database = "SistemaVerduleria";
-            string us = "sa";
-            string pw = "Welcome123*";
+            string us = "upi";
+            string pw = "12345";
 
             String con = $"Data source={ser}; Initial Catalog={database}; User Id={us}; Password={pw}; Integrated Security=false; TrustServerCertificate=true;"; 
 

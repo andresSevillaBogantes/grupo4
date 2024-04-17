@@ -1,10 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Andres Sevilla\\Desktop\\SistemaVerduleria\\SistemaVerduleria\\",
+  "WorkspaceRootPath": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EEC937B-1EEE-4D9B-A57C-D2EA43922767}|Presentacion.csproj|c:\\users\\andres sevilla\\desktop\\sistemaverduleria\\sistemaverduleria\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{16650845-B886-4F50-80D6-A6742834E445}|..\\DAL\\DAL.csproj|c:\\users\\jos91\\desktop\\proyecto3\\sistemaverduleria \u002B bd\\sistemaverduleria\\dal\\databasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF2502B-EA93-478A-89A4-B610774C4932}|..\\BLL\\BLL.csproj|C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\bll\\mantenimientotipoproductobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEC937B-1EEE-4D9B-A57C-D2EA43922767}|Presentacion.csproj|C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{6EEC937B-1EEE-4D9B-A57C-D2EA43922767}|Presentacion.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16650845-B886-4F50-80D6-A6742834E445}|..\\DAL\\DAL.csproj|C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\dal\\mantenimientotipoproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C023139-75C7-4152-AD9D-1C08F0D581F1}|..\\Entidades\\Entidades.csproj|C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\entidades\\mantenimientotipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEC937B-1EEE-4D9B-A57C-D2EA43922767}|Presentacion.csproj|C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\mantenimientotipoproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EEC937B-1EEE-4D9B-A57C-D2EA43922767}|Presentacion.csproj|solutionrelative:mantenimientotipoproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +33,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\Andres Sevilla\\Desktop\\SistemaVerduleria\\SistemaVerduleria\\About.aspx",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\About.aspx",
               "RelativeDocumentMoniker": "About.aspx",
-              "ToolTip": "C:\\Users\\Andres Sevilla\\Desktop\\SistemaVerduleria\\SistemaVerduleria\\About.aspx",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\About.aspx",
               "RelativeToolTip": "About.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-10T01:27:11.127Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-12T00:53:06.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T16:34:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MantenimientoTipoProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\MantenimientoTipoProductoDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\MantenimientoTipoProductoDAL.cs",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\MantenimientoTipoProductoDAL.cs",
+              "RelativeToolTip": "..\\DAL\\MantenimientoTipoProductoDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:06.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\DataBaseDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataBaseDAL.cs",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\DAL\\DataBaseDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DataBaseDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:06.75Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MantenimientoTipoProductoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\BLL\\MantenimientoTipoProductoBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\MantenimientoTipoProductoBLL.cs",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\BLL\\MantenimientoTipoProductoBLL.cs",
+              "RelativeToolTip": "..\\BLL\\MantenimientoTipoProductoBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:06.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MantenimientoTipoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\Entidades\\MantenimientoTipoProducto.cs",
+              "RelativeDocumentMoniker": "..\\Entidades\\MantenimientoTipoProducto.cs",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\Entidades\\MantenimientoTipoProducto.cs",
+              "RelativeToolTip": "..\\Entidades\\MantenimientoTipoProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MantenimientoTipoProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\MantenimientoTipoProducto.aspx",
+              "RelativeDocumentMoniker": "MantenimientoTipoProducto.aspx",
+              "ToolTip": "C:\\Users\\jos91\\Desktop\\proyecto3\\SistemaVerduleria \u002B BD\\SistemaVerduleria\\SistemaVerduleria\\MantenimientoTipoProducto.aspx",
+              "RelativeToolTip": "MantenimientoTipoProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-12T00:53:06.868Z"
             }
           ]
         }

@@ -15,12 +15,12 @@ C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debu
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.dll
 C:\Users\Daniel\Downloads\Mini Sistema Verdureria\SistemaVerduleria\BLL\obj\Debug\BLL.pdb
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\bin\Debug\BLL.dll
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\bin\Debug\BLL.pdb
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\bin\Debug\DAL.dll
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\bin\Debug\DAL.pdb
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.Up2Date
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\obj\Debug\BLL.dll
-C:\Users\Andres Sevilla\Desktop\SistemaVerduleria\BLL\obj\Debug\BLL.pdb
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\bin\Debug\BLL.dll
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\bin\Debug\BLL.pdb
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\bin\Debug\DAL.dll
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\bin\Debug\DAL.pdb
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\obj\Debug\BLL.dll
+C:\Users\jos91\Desktop\proyecto3\SistemaVerduleria + BD\SistemaVerduleria\BLL\obj\Debug\BLL.pdb
